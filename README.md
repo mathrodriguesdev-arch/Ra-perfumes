@@ -1,28 +1,28 @@
-# 🕴️ RA Moda Masculina - E-commerce Landing Page
+# 🧪 RA Perfumes - Boutique Digital de Fragrâncias
 
-> Uma vitrine digital sofisticada e moderna desenvolvida para o segmento de moda masculina, focada em branding e experiência visual.
+> Uma landing page sofisticada e envolvente desenvolvida para o mercado de perfumaria de luxo, com foco em estética premium e conversão.
 
 ## 🔗 Demonstração
-**Veja o projeto online:** [Acesse aqui](https://ra-moda-masculina.vercel.app/)
+**Veja o projeto online:** [Acesse aqui](https://ra-perfumes.vercel.app/)
 
 ---
 
 ## 💻 Sobre o Projeto
-O projeto **RA Moda Masculina** foi criado para explorar o uso de tipografia marcante e layouts de alta fidelidade visual. O objetivo foi desenvolver uma interface que não apenas apresentasse as roupas, mas que construísse uma narrativa de estilo para o usuário. Trabalhei com transições suaves e uma estrutura de grid que valoriza as fotografias dos produtos.
+O projeto **RA Perfumes** explora a criação de uma interface que transmite exclusividade. O desafio foi utilizar um design "clean" e ao mesmo tempo impactante, onde as imagens dos produtos são as protagonistas. Foquei em criar uma navegação que guie o usuário através das diferentes famílias olfativas, proporcionando uma experiência de compra de elite.
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5:** Estrutura semântica focada em acessibilidade.
-- **CSS3:** Estilização avançada com foco em paleta de cores sóbrias e contrastantes.
-- **Design Responsivo:** Adaptado para oferecer uma experiência de boutique no celular e no desktop.
-- **Vercel:** Hosting e deploy automatizado.
+- **HTML5:** Estrutura organizada para exibição de produtos.
+- **CSS3:** Estilização com foco em contrastes elegantes e tipografia de luxo.
+- **Design Responsivo:** Interface otimizada para uma navegação fluida em smartphones.
+- **Vercel:** Deploy e hospedagem profissional.
 
 ## 🎨 Diferenciais Técnicos
-- **Curadoria Visual:** Layout que prioriza a estética e o desejo de consumo do usuário.
-- **Hierarquia de Informação:** Organização clara de coleções e categorias de produtos.
-- **Navegação Intuitiva:** Foco em levar o usuário da descoberta do produto ao contato/compra.
+- **Apelo Visual:** Layout desenvolvido para valorizar a fotografia e o branding dos perfumes.
+- **UI/UX:** Foco em uma interface minimalista que reduz o ruído visual e facilita a escolha do cliente.
+- **Performance:** Imagens otimizadas para garantir um carregamento rápido sem perder a qualidade.
 
 ## 📸 Preview
-![Screenshot do Projeto](./preview-moda.png)
+![Screenshot do Projeto](./preview-perfumes.png)
 
 ---
 ### 👨‍💻 Contato
